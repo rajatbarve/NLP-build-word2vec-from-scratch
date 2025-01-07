@@ -9,7 +9,7 @@ The goal of this project is to:
 - Train word embeddings on a real-world corpus.
 
 ### Corpus
-The dataset used for training is obtained from **Kaggle** and contains Reddit news headlines from a specific period. This corpus serves as the source for learning meaningful word representations.
+The dataset used for training is obtained from **Kaggle** and contains Reddit news headlines from a specific period (1st quarter of 2008). This corpus serves as the source for learning meaningful word representations.
 
 ### Current Status
 - [WIP as of 05.01.2025]
