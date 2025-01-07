@@ -1,1 +1,0 @@
-# NLP-build-word2vec-from-scratch
